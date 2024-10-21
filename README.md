@@ -6,6 +6,7 @@
 
 Backend ( resources -> application.properties ): 
 
+```bash
 - `spring.profiles.active=local`
 
 - `server.port=8080`
@@ -39,5 +40,5 @@ Backend ( resources -> application.properties ):
 - `spring.security.oauth2.client.provider.oidc.issuer-uri=''`
 
 - `frontend.baseurl=http://localhost:3000`
-
+```
 
