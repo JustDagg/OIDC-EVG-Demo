@@ -4,7 +4,7 @@
 
 ### Demo Login Using OIDC Redirect To UserInfo
 
-Backend ( resources -> application.properties ): 
+Backend config ( resources -> application.properties ): 
 
 ```bash
 `spring.profiles.active=local`
